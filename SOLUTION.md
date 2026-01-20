@@ -351,7 +351,7 @@ All code follows best practices including:
 
 ---
 
-## Assumptions Made (Due to Incomplete Requirements)
+## Assumptions Made
 
 1. **Recent Sales Activity**: Defined as sales in the last 30 days (configurable)
 2. **Days Until Stockout**: Calculated as `current_stock / average_daily_sales` based on last 30 days
